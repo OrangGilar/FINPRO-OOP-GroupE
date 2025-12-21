@@ -1,4 +1,4 @@
-# Student Runner - OOP Final Project (Group E)
+# I got reincarnated as an engineeer student - OOP Final Project (Group E)
 
 **"Student Runner"** is an endless runner platformer game developed using **Java (LibGDX)** and **Spring Boot**. The game simulates the life of a university student trying to survive the semester by dodging assignments and F-grades while maintaining their GPA.
 
